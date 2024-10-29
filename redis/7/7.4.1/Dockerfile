@@ -1,0 +1,2 @@
+FROM redis:7.4.1
+MAINTAINER wsc
