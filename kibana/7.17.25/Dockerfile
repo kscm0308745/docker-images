@@ -1,0 +1,2 @@
+FROM kibana:7.17.25
+MAINTAINER wsc
