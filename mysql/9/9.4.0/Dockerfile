@@ -1,0 +1,2 @@
+FROM mysql:9.4.0
+MAINTAINER wsc
