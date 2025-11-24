@@ -1,2 +1,2 @@
-FROM filebeat:9.0.4
+FROM elastic/filebeat:9.0.4
 MAINTAINER wsc
